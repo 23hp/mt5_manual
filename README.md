@@ -20,7 +20,7 @@
 
 2. 注册[MT交易者论坛](https://www.mql5.com/zh/auth_register)账号
 
-假如你是第一次操作，你需要在下方链接注册一个账号，用户购买信号，有账号则可跳过此步。
+假如你是第一次操作，你需要在下方链接注册一个账号，用于购买信号，有账号则可跳过此步。
 
 https://www.mql5.com/zh/auth_register
 
