@@ -3,7 +3,6 @@
 ### 如何订阅信号
 信号是MT5帮助你躺赚的的一个功能， 可以直接在你的帐户里自动跟随专业操盘手，拷贝交易操作。
 
-
 #### 前置条件：
 - 一个MT5交易账号，里面最好没有单子
 - windows电脑一台，需要安装[MT5](https://download.mql5.com/cdn/web/international.capital.markets/mt5/icmarkets5setup.exe)和[chrome浏览器](https://www.google.cn/intl/zh-CN/chrome/)
@@ -54,15 +53,12 @@ https://www.mql5.com/zh/auth_register
 
 ![配置](/image/config.png)
 
-确保自动交易按钮是开启的
-
-![自动交易](/image/auto.png)
 
 现在你的账号已经能够自动跟随操盘手的操作了。
 
-如果发现每次跟单的手数太小，可以在MT5顶部菜单栏选择`工具`->`设定`->找到`信号`面板，修改`使用不超过__%入金`的大小。 
+面板中参数的解释请参考：[如何订阅信号](https://www.metatrader5.com/zh/terminal/help/signals/signal_subscriber)
 
-面板中其他参数的解释后续我会慢慢完善。
+例如：发现每次跟单的手数太小，可以在MT5顶部菜单栏选择`工具`->`设定`->找到`信号`面板，修改`使用不超过__%入金`的大小。 
 
 软件需要一直保持开启，否则会因为关机导致自动跟单停止。要保持账号自动交易，我们就需要一台机器长期开着，运行这个软件，我们需要购买一台服务器（VPS）。
 
@@ -90,5 +86,9 @@ https://www.mql5.com/zh/auth_register
 
 具体如何操作，我将会另写一篇文章来说明。
 
+### 相关链接
 
+- [信号是如何运作的](https://www.mql5.com/zh/articles/618)
+- [如何订阅信号](https://www.metatrader5.com/zh/terminal/help/signals/signal_subscriber)
+- [利润计算器](https://www.forextimechina.com.cn/zh/trading-tools/trading-calculator/profit-calculator)
 
